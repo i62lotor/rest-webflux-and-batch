@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "raffle.initial.number",
+    "type": "java.lang.String",
+    "description": "A description for 'raffle.initial.number'"
+  },
+  {
+    "name": "raffle.finish.number",
+    "type": "java.lang.String",
+    "description": "A description for 'raffle.finish.number'"
+  }
+]}
